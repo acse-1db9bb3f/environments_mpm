@@ -7,3 +7,8 @@ dependencies:
   - pip
   - pip:
     - -r requirements.txt
+  -numpy>1.16
+- scipy
+- matplotlib
+- sympy
+- pandas
